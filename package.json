@@ -1,0 +1,25 @@
+{
+  "name": "codesessions_typescript-01",
+  "version": "1.0.0",
+  "description": "CodeSessions USPG Future Developes :v",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc && node ./build/src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel2500274/codeSessions_Typescript-01.git"
+  },
+  "author": "USPG Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniel2500274/codeSessions_Typescript-01/issues"
+  },
+  "homepage": "https://github.com/daniel2500274/codeSessions_Typescript-01#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "node-typescript": "^0.1.3",
+    "typescript": "^5.8.3"
+  }
+}
